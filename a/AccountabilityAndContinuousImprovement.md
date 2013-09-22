@@ -10,19 +10,19 @@ Her Majesty, by and with the advice and consent of the Legislative Assembly of N
 
 __1__ The following definitions apply in this Act.
 
-“annual plan” means a plan approved under section 4._(plan annuel)_
+“annual plan” means a plan approved under section 4. _(plan annuel)_
 
-“annual report” means a report approved under section 5._(rapport annuel)_
+“annual report” means a report approved under section 5. _(rapport annuel)_
 
-“Crown body” means an organization or body listed in Schedule A._(organisme de la Couronne)_
+“Crown body” means an organization or body listed in Schedule A. _(organisme de la Couronne)_
 
 “Crown corporation” means a board, Crown corporation or commission listed under Part IV of the First Schedule of the _Public Service Labour Relations Act_. _(société de la Couronne)_
 
-“Crown entity” means a department over which a member of the Executive Council presides or a Crown body._(entité de la Couronne)_
+“Crown entity” means a department over which a member of the Executive Council presides or a Crown body. _(entité de la Couronne)_
 
-“memorandum of understanding” means a memorandum approved or amended under section 6._(protocole d’entente)_
+“memorandum of understanding” means a memorandum approved or amended under section 6. _(protocole d’entente)_
 
-“responsible minister” means the Minister responsible for a Crown entity._(ministre responsable)_
+“responsible minister” means the Minister responsible for a Crown entity. _(ministre responsable)_
 
 ### Application of this Act
 
@@ -64,7 +64,7 @@ __4__(2) The annual plan of a Crown entity shall
 
 * (c) include a statement indicating that the Minister of the Crown or the chair of the Crown entity, as the case may be, is accountable for the preparation of the plan and for achieving the specific goals and objectives of the plan, and
 
-	(d) contain any other information prescribed by regulation, if any.
+* (d) contain any other information prescribed by regulation, if any.
 
 __4__(3) An annual plan shall be submitted to the responsible minister on or before a date determined by Executive Council and be signed by the responsible minister or by the chair of the Crown entity, as the case may be.
 
