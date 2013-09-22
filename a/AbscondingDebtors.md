@@ -8,7 +8,7 @@ _Deposited May 13, 2011_
 
 __1__ The following definitions apply in this Act.
 
-“judge” means a judge of The Court of Queen’s Bench of New Brunswick._(juge)_
+“judge” means a judge of The Court of Queen’s Bench of New Brunswick. _(juge)_
 
 “property” or “estate” means real and personal property and includes choses in action. _(biens) (actif)_
 
@@ -45,6 +45,7 @@ __4__(3) There shall also be submitted a sworn allegation that there is danger t
 R.S.1973, c.A-2, s.4.
 
 ### Trial of claim to seized property
+
 __5__(1) If a sheriff, through ignorance, takes property claimed by any other person, the person whose property is taken may, within 60 days after the taking and on affidavit of the facts, apply to a judge for a summons returnable not less than four clear days after service of it on the sheriff, and on the return of the summons the judge shall determine the ownership of the property.
 
 __5__(2)If the judge finds that the property belongs to the claimant, the judge may order the costs to be paid by the sheriff personally or out of the estate of the debtor, but no other action arises against the sheriff for the erroneous taking unless it was malicious.
