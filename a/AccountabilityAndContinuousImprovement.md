@@ -9,19 +9,19 @@ Her Majesty, by and with the advice and consent of the Legislative Assembly of N
 
 __1__ The following definitions apply in this Act.
 
-“annual plan” means a plan approved under section 4.(plan annuel)
+“annual plan” means a plan approved under section 4._(plan annuel)_
 
-“annual report” means a report approved under section 5.(rapport annuel)
+“annual report” means a report approved under section 5._(rapport annuel)_
 
-“Crown body” means an organization or body listed in Schedule A.(organisme de la Couronne)
+“Crown body” means an organization or body listed in Schedule A._(organisme de la Couronne)_
 
-“Crown corporation” means a board, Crown corporation or commission listed under Part IV of the First Schedule of the Public Service Labour Relations Act. (société de la Couronne)
+“Crown corporation” means a board, Crown corporation or commission listed under Part IV of the First Schedule of the _Public Service Labour Relations Act_. _(société de la Couronne)_
 
-“Crown entity” means a department over which a member of the Executive Council presides or a Crown body.(entité de la Couronne)
+“Crown entity” means a department over which a member of the Executive Council presides or a Crown body._(entité de la Couronne)_
 
-“memorandum of understanding” means a memorandum approved or amended under section 6.(protocole d’entente)
+“memorandum of understanding” means a memorandum approved or amended under section 6._(protocole d’entente)_
 
-“responsible minister” means the Minister responsible for a Crown entity.(ministre responsable)
+“responsible minister” means the Minister responsible for a Crown entity._(ministre responsable)_
 
 ### Application of this Act
 
@@ -131,7 +131,7 @@ __7__(1) A Crown entity may refuse to disclose any information required to be di
 
 	(b) interfere with contractual or other negotiations of the Crown entity.
 	
-__7__(2) If subsection (1) is inconsistent with or in conflict with a provision of the Right to Information and Protection of Privacy Act, subsection (1) prevails.
+__7__(2) If subsection (1) is inconsistent with or in conflict with a provision of the _Right to Information and Protection of Privacy Act_, subsection (1) prevails.
 Regulations
 
 __8__(1) The Lieutenant-Governor in Council may make regulations

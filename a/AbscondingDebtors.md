@@ -8,9 +8,9 @@ _Deposited May 13, 2011_
 
 __1__ The following definitions apply in this Act.
 
-“judge” means a judge of The Court of Queen’s Bench of New Brunswick.(juge)
+“judge” means a judge of The Court of Queen’s Bench of New Brunswick._(juge)_
 
-“property” or “estate” means real and personal property and includes choses in action. (biens) (actif)
+“property” or “estate” means real and personal property and includes choses in action. _(biens) (actif)_
 
 R.S.1973, c.A-2, s.1; 1979, c.41, s.2.
 
@@ -22,7 +22,7 @@ R.S.1973, c.A-2, s.2; 1987, c.6, s.1.
 
 ### Notice of proceedings
 
-__3__ The judge who issues the warrant shall immediately after that issue a notice in the form prescribed by regulation and order the applicant to publish it once in The Royal Gazette and may direct any part of or all the property seized to be sold, if in the judge’s opinion advisable, and the proceeds held by the sheriff to be applied for the benefit of the estate.
+__3__ The judge who issues the warrant shall immediately after that issue a notice in the form prescribed by regulation and order the applicant to publish it once in _The Royal Gazette_ and may direct any part of or all the property seized to be sold, if in the judge’s opinion advisable, and the proceeds held by the sheriff to be applied for the benefit of the estate.
 
 R.S.1973, c.A-2, s.3; 1983, c.7, s.1.
 
@@ -81,7 +81,7 @@ R.S.1973, c.A-2, s.8.
 
 __9__(1)If the debtor does not within 60 days after the publication of the notice satisfy the debtor’s creditors and if the warrant is not stayed, the sheriff shall, within ten days after the end of the 60 days, call a meeting of the creditors to be held in the sheriff’s office or other convenient place to be named in the notice, not later than 12 days after the last publication of the notice of the meeting.
 
-__9__(2)Notice of the meeting shall be published once in The Royal Gazette and once each week for three consecutive weeks in a newspaper published in the county where the debtor resided, and where no newspaper is published in that county then in a newspaper published in the Province and having general circulation in that county, and shall be sent by mail, postage paid, to all creditors so far as they can be ascertained by the sheriff.
+__9__(2)Notice of the meeting shall be published once in _The Royal Gazette_ and once each week for three consecutive weeks in a newspaper published in the county where the debtor resided, and where no newspaper is published in that county then in a newspaper published in the Province and having general circulation in that county, and shall be sent by mail, postage paid, to all creditors so far as they can be ascertained by the sheriff.
 
 __9__(3)The notice calling the first meeting of creditors shall contain a notice that all creditors are required to file their claims, duly proved by affidavit, with the sheriff within 60 days after the date of the notice, and that all claims not filed within the time limited, or such further time if any as may be allowed by a judge, are wholly barred of any right to share in the proceeds of the estate, and that the sheriff is at liberty to distribute the proceeds of the estate as if any claim not so filed did not exist, but without prejudice to the liability of the debtor for it.
 
