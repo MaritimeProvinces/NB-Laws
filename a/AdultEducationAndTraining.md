@@ -28,35 +28,35 @@ __2__ The Minister is responsible for the administration of this Act and may des
 
 __3__(1) The Minister
 
-	(a) shall determine the appropriate patterns of development of post-secondary non-university education in New Brunswick;
+* (a) shall determine the appropriate patterns of development of post-secondary non-university education in New Brunswick;
 
-	(b) shall coordinate the development of programs of post-secondary non-university education in New Brunswick;
+* (b) shall coordinate the development of programs of post-secondary non-university education in New Brunswick;
 
-	(c) shall establish and operate the institution named “New Brunswick College of Craft and Design” for the offering of post-secondary non-university programmes;
+* (c) shall establish and operate the institution named “New Brunswick College of Craft and Design” for the offering of post-secondary non-university programmes;
 
-	(d) may, alone or in cooperation with one or more organizations, establish and operate institutions, other than those referred to in paragraph (1)(c), for the offering of post-secondary non-university programs;
+* (d) may, alone or in cooperation with one or more organizations, establish and operate institutions, other than those referred to in paragraph (1)(c), for the offering of post-secondary non-university programs;
 
-	(e) may, alone or in cooperation with one or more organizations, operate the institutions prescribed by regulation for the offering of post-secondary non-university programs;
+* (e) may, alone or in cooperation with one or more organizations, operate the institutions prescribed by regulation for the offering of post-secondary non-university programs;
 
-	(f) may subsidize the operation of a post-secondary non-university program that is offered by an organization other than the Department;
+* (f) may subsidize the operation of a post-secondary non-university program that is offered by an organization other than the Department;
 
-	(g) shall determine the official language of each institution;
+* (g) shall determine the official language of each institution;
 	
-	(h) shall establish policies with respect to
+* (h) shall establish policies with respect to
 		
-		(i) the post-secondary non-university programs to be offered by the Department,
+	* (i) the post-secondary non-university programs to be offered by the Department,
 
-		(ii) the provision of post-secondary non-university programs by the Department according to the needs of the population within the Province,
+	* (ii) the provision of post-secondary non-university programs by the Department according to the needs of the population within the Province,
 		
-		(iii) the admission requirements for the post-secondary non-university programs offered by the Department, and
+	* (iii) the admission requirements for the post-secondary non-university programs offered by the Department, and
 
-		(iv) the certificates or diplomas to be awarded by the Department for successful completion of the programs offered by the Department;
+	* (iv) the certificates or diplomas to be awarded by the Department for successful completion of the programs offered by the Department;
 
-	(i) shall establish fees to be charged for the programs offered by the Department;
+* (i) shall establish fees to be charged for the programs offered by the Department;
 
-	(j) shall maintain liaison with other educational institutions; and
+* (j) shall maintain liaison with other educational institutions; and
 
-	(k) shall publish reports and studies as the Minister sees fit.
+* (k) shall publish reports and studies as the Minister sees fit.
 
 __3__(2) Despite paragraph (1)(g), the Minister may use the facilities of an institution for the purpose of providing post‑secondary non-university programs in the official language which is not the official language of the institution.
 
@@ -90,9 +90,9 @@ __4__(9) When expenditures out of the Training Services Account exceed revenue e
 
 __4__(10) The Board of Management
 	
-	(a) may authorize the Minister to retain revenue in the Training Services Account, and
+* (a) may authorize the Minister to retain revenue in the Training Services Account, and
 	
-	(b) shall prescribe the time by which excess revenue is to be deposited into the Consolidated Fund.
+* (b) shall prescribe the time by which excess revenue is to be deposited into the Consolidated Fund.
 
 1992, c.91, s.3.
 
@@ -114,9 +114,9 @@ __6__ Despite the _Financial Administration Act_ and subject to the approval of 
 
 __7__(1) Subject to the approval of the Lieutenant-Governor in Council, for the purposes of offering and administering programs of post-secondary non-university education under this Act, the Minister may
 
-	(a) purchase or accept gifts of lands or buildings, and
+* (a) purchase or accept gifts of lands or buildings, and
 
-	(b) construct buildings.
+* (b) construct buildings.
 
 __7__(2) The Minister may enter into a lease for the rental of facilities as required for the purposes of offering and administering programs of post-secondary non-university education under this Act.
 

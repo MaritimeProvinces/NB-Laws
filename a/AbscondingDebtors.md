@@ -30,13 +30,13 @@ R.S.1973, c.A-2, s.3; 1983, c.7, s.1.
 
 __4__(1) The estate of the debtor or debtors if jointly or severally indebted to the amount stated in section 2 may be proceeded against by a creditor in like manner as nearly as possible as against an absent or concealed debtor if one of the following conditions exists:
 
-  (a) a person severally indebted was not at the time of contracting the debt nor at the time set for its payment resident in the Province otherwise than by reason of carrying on business in the Province, and the debt was contracted in respect of that business, and the debtor was not within the Province during the month next preceding the application;
+* (a) a person severally indebted was not at the time of contracting the debt nor at the time set for its payment resident in the Province otherwise than by reason of carrying on business in the Province, and the debt was contracted in respect of that business, and the debtor was not within the Province during the month next preceding the application;
 
-  (b) the debtors are joint debtors and were not at the time of contracting the debt nor at the time set for its payment resident in the Province otherwise than by reason of carrying on business in the Province, and the debt was contracted in respect of that business, and one of the joint debtors was not within the Province during the month next preceding the application;
+* (b) the debtors are joint debtors and were not at the time of contracting the debt nor at the time set for its payment resident in the Province otherwise than by reason of carrying on business in the Province, and the debt was contracted in respect of that business, and one of the joint debtors was not within the Province during the month next preceding the application;
 
-  (c) a person severally indebted was not at the time of contracting the debt resident in the Province but became a resident of the Province after contracting the debt, and has been absent from the Province for the six months next preceding the application; or
+* (c) a person severally indebted was not at the time of contracting the debt resident in the Province but became a resident of the Province after contracting the debt, and has been absent from the Province for the six months next preceding the application; or
 
-  (d) the debtors are joint debtors who were not at the time of contracting the debt resident in the Province but became residents of the Province after contracting the debt, and one of them has been absent from the Province for six months next preceding the application.
+* (d) the debtors are joint debtors who were not at the time of contracting the debt resident in the Province but became residents of the Province after contracting the debt, and one of them has been absent from the Province for six months next preceding the application.
 
 __4__(2) In the above cases the absence may be proved by the oath of any person familiar with the facts.
 
